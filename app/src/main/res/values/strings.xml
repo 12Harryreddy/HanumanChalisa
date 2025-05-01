@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hanuman Chalisa</string>
+    <string name="jai_shree_ram">Jai Shree Ram</string>
+    <string name="sh1">Sri Guru Charan Saroj Raj, Nij Mann Mukuru Sudhaari.\nBarnaun Raghuvar Bimal Jasu, Jo Daayaku Phal Chaari.</string>
+    <string name="sh2">Buddhiheen Tanu Janike, Sumiraun Pawan-Kumar.\nBal Buddhi Vidya Dehu Mohi, Harahu Kalesh Bikaar.</string>
+    <string name="sh3">Jai Hanuman Gyan Gunn Sagar. Jai Kapees Tihun Lok Ujaagar.\nRamdoot Atulit Baldhama. Anjani-Putra Pawansut Naama.</string>
+    <string name="sh4">Mahaveer Vikram Bajrangi. Kumati Nivaar Sumati Ke Sangi.\nKanchan Baran Biraj Subesa. Kaanan Kundal Kunchit Kesa.</string>
+    <string name="sh5">Haath Braj Au Dhwaja Biraaje. Kaandhe Moonj Janeu Saaje.\nShankar Suvan Kesarinandan. Tej Prataap Maha Jag Vandan.</string>
+    <string name="sh6">Vidyavaan Guni Ati Chaatur. Ram Kaaj Karibe Ko Aatur.\nPrabhu Charitra Sunibe Ko Rasiya. Ram Lakhan Sita Mann Basiya.</string>
+    <string name="sh7">Sukshma Roop Dhari Siyanhi Dikhawa. Bikat Roop Dhari Lanka Jarawa.\nBheem Roop Dhari Asura Sanghare. Ramchandra Ke Kaaj Sanware.</string>
+    <string name="sh8">Laaye Sanjeevan Lakhana Jiyaaye. Sri Raghuveer Harashi Urr Laaye.</string>
+    <string name="sh9">Raghupati Keenhi Bahut Badai. Tum Mum Priya, Bhartahi Sum Bhai.\nSahas Badan Tumharo Jas Gaave. Asa Kahi Sripati Kanth Lagaave.</string>
+    <string name="sh10">Sanakadik Brahmadik Munisa. Narad Sarad Sahit Ahisa.\nJam Kuber Digpal Jahan Te. Kavi Kovida Kah Sake Kahan Te.</string>
+    <string name="sh11">Tum Upkar Sugreevahi Kinha. Ram Milaye Raj Pad Dinha.\nTumharo Mantra Bibhishan Mana. Lankeshwar Bhaye Sab Jag Jana.</string>
+    <string name="sh12">Jug Sahastra Yojan Par Bhanu. Leelyo Tahi Madhur Phal Janu.\nPrabhu Mudrika Meli Mukh Mahin. Jaladhi Langhi Gaye Achraj Nahi.</string>
+    <string name="sh13">Durga Kaaj Jagat Ke Jete. Sugam Anugrah Tumhare Tete.\nRam Duaare Tum Rakhvaare. Hot Na Aagya Binu Paisaare.</string>
+    <string name="sh14">Sab Sukh Lahe Tumhari Sarna. Tum Rakshak Kahu Ko Darna.\nAapan Tej Samhaaro Aapai. Teenon Lok Haank Te Kaapai.</string>
+    <string name="sh15">Bhoot Pisaach Nikat Nahi Aavai. Mahaveer Jab Naam Sunavai.\nNaasai Rog Hare Sab Peera. Japat Nirantar Hanumat Beera.</string>
+    <string name="sh16">Sankat Te Hanuman Chudavei. Mann Kram Vachan Dhyan Jo Lavai.\nSab Par Ram Tapasvi Raja. Tinke Kaaj Sakal Tum Saja.</string>
+    <string name="sh17">Aur Manorath Jo Koi Lavai. Soyi Amit Jeevan Phal Paavai.\nCharon Yug Pratap Tumhara. Hai Parsiddha Jagat Ujiara.</string>
+    <string name="sh18">Sadhu Sant Ke Tum Rakhvaare. Asur Nikandan Ram Dulaare.\nAshta Siddhi Nau Nidhi Ke Dataa. As Var Deen Janki Maataa.</string>
+    <string name="sh19">Ram Rasayan Tumhare Paasa. Sadaa Raho Raghupati Ke Daasa.\nTumhare Bhajan Ram Ko Paavai. Janam Janam Ke Dukh Bisraavai.</string>
+    <string name="sh20">Antakaal Raghubarapur Jayi. Jahaan Janma Hari Bhakta Kahayi.\nAur Devata Chitta Na Dharayi. Hanumat Sei Sarva Sukh Karayi.</string>
+    <string name="sh21">Sankat Kata Mite Sab Peera. Jo Sumirai Hanumat Balbeera.\nJai Jai Jai Hanuman Gusai. Kripa Karahu Guru Dev Ki Nai.</string>
+    <string name="sh22">Jo Sat Baar Paath Kar Koi. Chhutahi Bandhi Mahaa Sukh Hoi.\nJo Yeh Padhe Hanuman Chalisa. Hoye Siddha Saakhi Gaurisa.</string>
+    <string name="sh23">Tulsidas Sada Hari Chera. Keejai Nath Hriday Mah Dera.</string>
+    <string name="sh24">Pawan Tanay Sankat Haran, Mangal Murti Roop.\nRam Lakhan Sita Sahit, Hriday Basahu Sur Bhoop.</string>
+    <string name="hanuman_ji_blessed_you">Hanuman Ji Blessed You!!</string>
+    <string name="hanuman_chalisa">Hanuman Chalisa</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="settings">Settings</string>
+</resources>
